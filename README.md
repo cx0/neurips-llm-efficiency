@@ -25,8 +25,8 @@ Each submission folder includes a Dockerfile and python files required for `helm
 
 ### Future experiments
 
-- LoRA vs QLoRA
-- NEFTune
-- Data mixture (a la DoreMi)
+- LoRA vs QLoRA vs [VeRA](https://arxiv.org/abs/2310.11454) vs [full FT](https://github.com/hitz-zentroa/GoLLIE/)
+- NEFTune (see [issue](https://github.com/neelsjain/NEFTune/issues/1))
+- Data mixture (a la DoReMi)
 - Curriculum learning
 - Model fusion/merge
