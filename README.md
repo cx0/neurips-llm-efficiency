@@ -18,7 +18,15 @@ Each submission folder includes a Dockerfile and python files required for `helm
 
 [open-otter](https://huggingface.co/datasets/onuralp/open-otter)
 
-### Weights and Biases training logs
+### Training logs
 
-W&B logs for each submission.
+- W&B logs for each submission
+- Axolotl `.yml` config files 
 
+### Future experiments
+
+- LoRA vs QLoRA
+- NEFTune
+- Data mixture (a la DoreMi)
+- Curriculum learning
+- Model fusion/merge
