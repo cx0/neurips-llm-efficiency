@@ -2,7 +2,7 @@
 
 ### First stage evaluation
 
-Each submission folder includes a Dockerfile and python files required for `helm` evaluation. For convenience, here is a compressed file containing all submissions together: [all_submissions.zip](./all_submissions.zip).
+Each submission folder includes a Dockerfile and python files required for `helm` evaluation. For convenience, here is a compressed file containing all submissions together: [all_submissions.zip](./all_submissions.zip). Team name for both tracks is `ziggurat`.
 
 - 4090 track
 	- [Submission #1](./4090_track/4090_submission_1.zip)
