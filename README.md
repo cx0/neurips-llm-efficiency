@@ -14,6 +14,10 @@ Each submission folder includes a Dockerfile and python files required for `helm
 	- [Submission #2](./A100_track/A100_submission_1.zip)
 	- [Submission #3](./A100_track/A100_submission_3.zip)
 
+### Models
+
+All the adapters and merged models are available on Hugging Face: [model collection](https://huggingface.co/collections/onuralp/neurips-2023-llm-efficiency-653a942242bfd8801c3336e7).
+
 ### Dataset
 
 [open-otter](https://huggingface.co/datasets/onuralp/open-otter)
