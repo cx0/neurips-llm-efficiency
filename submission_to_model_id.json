@@ -1,0 +1,12 @@
+{
+  "4090_track": {
+    "4090_submission_1.zip": "onuralp/Llama-2-7b-QLoRA-03-merged",
+    "4090_submission_2.zip": "onuralp/Mistral-7B-v0.1-QLoRA-01-merged",
+    "4090_submission_3.zip": "onuralp/Mistral-7B-v0.1-QLoRA-03-merged"
+  },
+  "A100_track": {
+    "A100_submission_1.zip": "onuralp/Llama-2-13b-QLoRA-01-merged",
+    "A100_submission_2.zip": "onuralp/Mistral-7B-v0.1-QLoRA-02-merged",
+    "A100_submission_3.zip": "onuralp/Llama-2-13b-QLoRA-02-merged"
+  }
+}
