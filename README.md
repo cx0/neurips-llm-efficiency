@@ -1,19 +1,5 @@
 # llm-efficiency-submission
 
-### First stage evaluation
-
-Each submission folder includes a Dockerfile and python files required for `helm` evaluation. For convenience, here is a compressed file containing all submissions together: [all_submissions.zip](./all_submissions.zip). Team name for both tracks is `ziggurat`.
-
-- 4090 track
-	- [Submission #1](./4090_track/4090_submission_1.zip)
-	- [Submission #2](./4090_track/4090_submission_2.zip)
-	- [Submission #3](./4090_track/4090_submission_3.zip)
-
-- A100 track
-	- [Submission #1](./A100_track/A100_submission_1.zip)
-	- [Submission #2](./A100_track/A100_submission_1.zip)
-	- [Submission #3](./A100_track/A100_submission_3.zip)
-
 ### Models
 
 All the adapters and merged models are available on Hugging Face: [model collection](https://huggingface.co/collections/onuralp/neurips-2023-llm-efficiency-653a942242bfd8801c3336e7). Here is a summary of all the experiments.
